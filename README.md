@@ -23,6 +23,6 @@ This is a Laravel application that implements user authentication, including reg
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nirjondipo/publictires
-cd publictires
+git clone https://github.com/nirjondipo/Laravel12AuthGoogle2FA
+cd Laravel12AuthGoogle2FA
 >>>>>>> 8597f07 (Add Google 2FA support and QR code generation)
